@@ -14,7 +14,7 @@ Banana Launcher is a simple Python project that creates a local server on your I
 | PC |
 
 1 • Download Banana Launcher.zip in this repository.
-2 • Install Python. can also be found [here](www.python.org)
+2 • Install Python. can also be found [here](https://www.python.org)
 3 • Extract Banana Launcher.zip and find main.py.
 4 • Open main.py with python and run it.
 
