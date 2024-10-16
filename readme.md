@@ -14,8 +14,11 @@ Banana Launcher is a simple Python project that creates a local server on your I
 | PC |
 
 1 • Download Banana Launcher.zip in this repository.
+
 2 • Install Python. can also be found [here](https://www.python.org)
+
 3 • Extract Banana Launcher.zip and find main.py.
+
 4 • Open main.py with python and run it.
 
 
@@ -25,8 +28,11 @@ Banana Launcher is a simple Python project that creates a local server on your I
 | Android |
 
 1 • From playstore, Download PyDroid 3.
+
 2 • Download Banana Launcher.zip.
+
 3 • Extract it.
+
 4 • Run main.py on PyDroid.
 
 
@@ -53,7 +59,7 @@ Servidor Iniciado: http://(yourip):8080(can be changed)``
 
 6 • In that folder, create a file called: index.html
 
-7 • Put anything you wantin that file.
+7 • Put anything you want in that file.
 
 8 • Enter your web browser, enter the http shown in the code, and it should be running a server in your browser.
 
