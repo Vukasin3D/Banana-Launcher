@@ -11,23 +11,63 @@ Banana Launcher is a simple Python project that creates a local server on your I
 
 ## Installation
 
-1. Clone this repository:
+| PC |
 
-```bash
-git clone https://github.com/yourusername/banana-launcher.git
-
-
-
-2. Navigate to the project folder and run the main.py file using Python: python main.py
+1 • Download Banana Launcher.zip in this repository.
+2 • Install Python. can also be found [here](https://python.com)
+3 • Extract Banana Launcher.zip and find main.py.
+4 • Open main.py with python and run it.
 
 
-After running the script, you will see a menu to choose the language (Portuguese or English) and start the server on your local IP.
+| Linux | The same steps as PC.
 
-To access the server, open your browser and enter: http://127.0.0.1:8080
 
-Replace 127.0.0.1 with your actual local IP address.
+| Android |
 
-Requirements.
+1 • From playstore, Download PyDroid 3.
+2 • Download Banana Launcher.zip.
+3 • Extract it.
+4 • Run main.py on PyDroid.
 
-• Python 3.x
-• Basic knowledge of Python (for customization).
+
+## Usage
+
+How to use Banana Launcher?
+
+Banana Launcher is simple to use, and only require a few steps.
+
+1 • As you saw on installation, you will have to download Banana Launcher and do the steps in Installation.
+
+2 • Run the main.py file.
+
+3 • It'll ask something like this:
+``Choose a language.
+1 - Português
+2 - English`` Choose the language.
+
+4 • It should show something like this:
+``Language English chosen.
+Servidor Iniciado: http://(yourip):8080(can be changed)``
+
+5 • If you dont have, the code will create a folder called: public. It will show where it is in the code.
+
+6 • In that folder, create a file called: index.html
+
+7 • Put anything you wantin that file.
+
+8 • Enter your web browser, enter the http shown in the code, and it should be running a server in your browser.
+
+9 • (optional?) To add more archives on the site, you can do this:
+
+(REMINDER: Banana Launcher only supports html, txt, json, png, and jpg. Any other type of files wont work.)
+``Add other files in the "public" folder. Name them whatever you want. Then, you can go back to your browser, and, ex:
+http://(yourip):8080/(nameofyourfile).txt``
+
+10 • (optional) You can custom almost everything in the code, since its pretty easy to understand. You can custom which folder it will be, and others.
+
+
+## Requirements
+
+Python 3. x
+
+(optional) Basic python knowledge (for customizations)
