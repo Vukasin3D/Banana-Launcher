@@ -8,4 +8,4 @@ But, to use this project fully customized things, i recommend using:
 
 Because this project in **Android** may not be possible to use customisable hosting.
 
-Thats warned. Now you can go back tp main.py and run the code.
+Thats warned. Now you can go back to main.py and run the code.
