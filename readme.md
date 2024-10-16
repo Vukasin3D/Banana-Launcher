@@ -1,11 +1,17 @@
-**#Readme.md**
+# Banana Launcher
 
+Banana Launcher is a simple Python project that creates a local server on your IP address. It allows you to serve different file types such as HTML, TXT, and JSON.
 
-**Banana Launcher** is, as you know, a free python tool, That creates a server for you.
-But, to use this project fully customized things, i recommend using:
+## Features
 
-***PC / LINUX / MAC.***
+- Supports serving different file types: HTML, TXT, and JSON.
+- Customizable routes for specific files.
+- Option to modify the server port.
+- Multi-language support (English and Portuguese).
 
-Because this project in **Android** may not be possible to use customisable hosting.
+## Installation
 
-Thats warned. Now you can go back to main.py and run the code.
+1. Clone this repository:
+
+```bash
+git clone https://github.com/yourusername/banana-launcher.git
